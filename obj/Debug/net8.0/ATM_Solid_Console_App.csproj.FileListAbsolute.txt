@@ -1,0 +1,14 @@
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\bin\Debug\net8.0\ATM_Solid_Console_App.exe
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\bin\Debug\net8.0\ATM_Solid_Console_App.deps.json
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\bin\Debug\net8.0\ATM_Solid_Console_App.runtimeconfig.json
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\bin\Debug\net8.0\ATM_Solid_Console_App.dll
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\bin\Debug\net8.0\ATM_Solid_Console_App.pdb
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.AssemblyInfoInputs.cache
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.AssemblyInfo.cs
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.csproj.CoreCompileInputs.cache
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.dll
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\refint\ATM_Solid_Console_App.dll
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.pdb
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ATM_Solid_Console_App.genruntimeconfig.cache
+D:\APIXIO.TRUECOSTIMPLEMENT\ATM_Solid_Console_App\obj\Debug\net8.0\ref\ATM_Solid_Console_App.dll
